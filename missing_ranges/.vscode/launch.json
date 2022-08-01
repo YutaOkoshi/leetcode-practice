@@ -12,7 +12,7 @@
                     "--package=missing_ranges"
                 ]
             },
-            "program": "cd /Users/yuta.okoshi/go/src/github.com/YutaOkoshi/leetcode-practice/missing_ranges && ${cargo:program}",
+            "program": "${cargo:program}",
             "args": [],
             "cwd": "/Users/yuta.okoshi/go/src/github.com/YutaOkoshi/leetcode-practice/missing_ranges"
         }
